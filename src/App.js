@@ -3,19 +3,14 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="gray-background">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={logo} lat="logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          최강에 이르는 자
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
+        <a>
+         
         </a>
       </header>
     </div>
